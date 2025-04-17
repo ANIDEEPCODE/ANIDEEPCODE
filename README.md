@@ -22,14 +22,14 @@
 ### 💬 Mobile_Technology_based_Bulletinbord
 https://github.com/ANIDEEPCODE/Mobile_Technology_based_Bulletinbord
 
-### 🔐 [Fingerprint Door Unlock System](https://github.com/ANIDEEPCODE/Fingerprint-Door-Unlock)
-> Secure door lock system using fingerprint sensor, relay, and Arduino.
+### 🔐 Fingerprint Door Unlock System
+https://github.com/ANIDEEPCODE/Fingerprint-Door-Unlock
 
-### 🌬️ [Automatic Fan Control System](https://github.com/ANIDEEPCODE/Automatic-Fan-Control)
-> Temperature-based fan control using LM35 sensor and microcontroller.
+### 🌬️ Automatic Fan Control System
+https://github.com/ANIDEEPCODE/Automatic-Fan-Control
 
-### 📡 [RTEMS UART Driver (GSoC 2025)](https://github.com/ANIDEEPCODE/RTEMS-UART-Driver)
-> RTOS-level UART driver development and integration for RTEMS.
+### 📡 [RTEMS UART Driver (GSoC 2025)
+https://github.com/ANIDEEPCODE/RTEMS-UART-Driver
 
 ---
 
