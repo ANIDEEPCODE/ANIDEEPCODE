@@ -19,6 +19,9 @@
 
 ## 🛠️ Featured Projects
 
+### 💬 Mobile_Technology_based_Bulletinbord
+https://github.com/ANIDEEPCODE/Mobile_Technology_based_Bulletinbord
+
 ### 🔐 [Fingerprint Door Unlock System](https://github.com/ANIDEEPCODE/Fingerprint-Door-Unlock)
 > Secure door lock system using fingerprint sensor, relay, and Arduino.
 
