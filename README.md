@@ -1,8 +1,7 @@
 # 👋 Hi, I'm Damaraparapu Anideep
 
-🎓 **Embedded Systems Engineer | GSoC 2025 Aspirant**  
+🎓 **Embedded Systems Engineer ** 
 💻 Passionate about building real-time embedded projects using C, C++, Linux, RTOS  
-🔍 Exploring open-source with RTEMS and microcontroller programming  
 📍 Based in India | Open to job opportunities and collaborations
 
 ---
@@ -27,9 +26,6 @@ https://github.com/ANIDEEPCODE/Fingerprint-Door-Unlock
 
 ### 🌬️ Automatic Fan Control System
 https://github.com/ANIDEEPCODE/Automatic-Fan-Control
-
-### 📡 [RTEMS UART Driver (GSoC 2025)
-https://github.com/ANIDEEPCODE/RTEMS-UART-Driver
 
 ---
 
